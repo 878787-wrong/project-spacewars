@@ -10,7 +10,7 @@ networked, multi-user theme - see the "Suggested projects" section of
 
 | Full name | GitHub username |
 |-----------|-----------------|
-| <name>    | @<username>     |
+| Yeung Shun Him    | @878787-wrong     |
 | <name>    | @<username>     |
 | <name>    | @<username>     |
 | <name>    | @<username>     |
